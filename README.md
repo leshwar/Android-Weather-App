@@ -5,7 +5,7 @@
 * __Back-end__: NodeJS
 
 ## Application Documentation
-https://github.com/leshwar/Android-Weather-App/blob/master/Android-Weather-App-Description.pdf
+* [Click here to view] (https://github.com/leshwar/Android-Weather-App/blob/master/Android-Weather-App-Description.pdf)
 
 ## Application Demo
 (Click image below to play demo)
